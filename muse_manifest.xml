@@ -1,0 +1,78 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com,i" resolutions="1x" timestamp="1520807191442">
+  <folder name="css">
+    <file name="site_global.css" crc="4091947754"/>
+    <file name="index.css" crc="4031546785" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u455.php" crc="64746183" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="110-660x330.jpg" crc="3994764886" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sch_1180-900x390.jpg" crc="340920807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="photo-1496297485239-4265d2ba2105.jpg" crc="186261840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arleft1.png" crc="1459088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arright1.png" crc="269558854" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="city-taxi-transportation-247-466x350.jpg" crc="66501267" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="architecture-blue-sky-building-563-525x350.jpg" crc="4170436068" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1503572327579-b5c6afe5c5c5-u706-a-fr.jpg" crc="68532064" ref="index"/>
+    <file name="beach-building-house-2544-527x350.jpg" crc="4291617680" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1519695296978-e39c509a387f-u707-a-fr.jpg" crc="4093503938" ref="index"/>
+    <file name="bridge-steel-692-528x350.jpg" crc="526913442" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1496905583330-eb54c7e5915a.jpg" crc="512856462" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="building-bunker-house-554-525x350.jpg" crc="3963935975" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1492086517200-9393d4eb53bf-u709-a-fr.jpg" crc="3773207831" ref="index"/>
+    <file name="building-church-m--laga-cathedral-3625-525x350.jpg" crc="3896974796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1494924334470-bb5667193194-u708-a-fr.jpg" crc="75631830" ref="index"/>
+    <file name="building-house-overgrown-2619-527x350.jpg" crc="432134901" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1470803375016-4d4612890a7d-u711-a-fr.jpg" crc="194364824" ref="index"/>
+  </folder>
+  <file name="index.html" crc="154885926" seo="true" mt="1520807065820" redirect="true"/>
+</manifest>
